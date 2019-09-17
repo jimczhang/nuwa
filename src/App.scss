@@ -1,0 +1,12 @@
+.mainLayout {
+  .sidebar {
+    overflow: auto;
+    height: 100vh;
+    position: fixed;
+    left: 0;
+  }
+  .main {
+    margin-left: 200px;
+    padding-left: 1rem;
+  }
+}
